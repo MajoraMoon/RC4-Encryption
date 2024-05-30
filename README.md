@@ -12,7 +12,7 @@ This repository contains a Java implementation of the RC4 stream cipher algorith
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/rc4-java.git
+    git clone https://github.com/MajoraMoon/rc4-java.git
     cd rc4-java
     ```
 
